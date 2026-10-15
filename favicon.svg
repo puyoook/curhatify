@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="curhatifyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Gelap Sesuai Tema Website -->
+  <rect width="64" height="64" rx="18" fill="#080a12"/>
+  <!-- Ikon Not Musik Gradien Neon -->
+  <path d="M42 15v21.5A7.5 7.5 0 1 1 37 29V21l-14 4v16.5A7.5 7.5 0 1 1 18 34.5V17l24-2z" fill="url(#curhatifyGrad)"/>
+</svg>
