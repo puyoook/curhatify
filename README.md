@@ -86,8 +86,8 @@ Pastikan perangkat Anda sudah terinstall:
 
 ### 2. Clone Repositori
 ```bash
-git clone https://github.com/puyoook/chatify.git
-cd chatify
+git clone https://github.com/puyoook/curhatif.git
+cd curhatif
 ```
 
 ### 3. Install Dependensi Backend
@@ -135,5 +135,3 @@ Dukungan Anda sangat berarti untuk menjaga server dan layanan tetap berjalan akt
 Proyek ini dilisensikan di bawah [MIT License](https://opensource.licenses/MIT). Anda bebas untuk menggunakan, memodifikasi, dan mendistribusikan ulang sesuai ketentuan lisensi.
 
 Dibuat dengan ❤️ oleh **[puyoook](https://github.com/puyoook)**.
-README.md
-Menampilkan README.md.
