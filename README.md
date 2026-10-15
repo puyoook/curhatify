@@ -86,8 +86,8 @@ Pastikan perangkat Anda sudah terinstall:
 
 ### 2. Clone Repositori
 ```bash
-git clone https://github.com/puyoook/curhatif.git
-cd curhatif
+git clone https://github.com/puyoook/curhatify.git
+cd curhatify
 ```
 
 ### 3. Install Dependensi Backend
@@ -126,7 +126,7 @@ Jika Anda menyukai platform Curhatify dan ingin mendukung pengembangan fitur-fit
 - ☕ **Trakteer**: [trakteer.id/chatify](https://trakteer.id/chatify)
 - 🟡 **Saweria**: [saweria.co/chatifyy](https://saweria.co/chatifyy)
 
-Dukungan Anda sangat berarti untuk menjaga server dan layanan tetap berjalan aktif! ❤️
+Dukungan Anda sangat berarti untuk membeli domain dan hosting! ❤️
 
 ---
 
